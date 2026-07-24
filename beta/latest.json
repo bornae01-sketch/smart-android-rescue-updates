@@ -1,0 +1,19 @@
+{
+    "Product":  "Smart Android Rescue Pro",
+    "Manufacturer":  "Smart Tech Rolândia",
+    "Version":  "0.9.8",
+    "Channel":  "Beta",
+    "Architecture":  "x64",
+    "Msi":  "SmartAndroidRescuePro-0.9.8-x64.msi",
+    "DownloadUrl":  "https://github.com/bornae01-sketch/smart-android-rescue-updates/releases/download/v0.9.8/SmartAndroidRescuePro-0.9.8-x64.msi",
+    "Bytes":  5103616,
+    "Sha256":  "023E2DE0BADC13AA9FF3DD53E2B9796503493673BA7252E5EAC7B77240931615",
+    "GeneratedAt":  "2026-07-24T19:23:05.7834105+00:00",
+    "MinimumVersion":  "0.9.7",
+    "Mandatory":  false,
+    "ReleaseNotes":  "Nova versão:",
+    "SignatureAlgorithm":  "RSA-SHA256",
+    "Signature":  "aUu/hdDw7/3lfwOvisUNKGCygm+ncS+gw/DFS5K6o220TyG4VAsRBJIqOibm/0um6wHgjYcR5vuJzyjKiEyjo7370wywJHvPI6m4CSNi5SlmCU5wGw/09BQYsiKiDM0YSiF9Km8NG1b3UP7W0s4vP0nXriGJ9EzJenUjgKxof0bK2SDi85XvzP3rNJjHzyR8unKM5miuMw8Akgxp+T3YkIRRUuMjtOzrEodNI91MTQBz7IYFuS6RapKiQPThkdb8+cVKjPgZyvQeKSwzBycvJ42stgYtHCUHfE+rxcJClZnaxCzkHL+6jLHgKFJN9UG03dNmpd113JzW3/KE5GxHUjrWL0CMvAiEOb3ZyEAbQx5gNAkrpw2QRJhi8/iKyZWw8yX+hPme2WtqeaIt5fPpdBOSa/0vm6xi53y4Mxlwwhi476yJia/QIwczTWo+TpSssJJhsLTDEtvsofgJXHuUC3WI85wdm/mn3nSUAoxwjz/ZAQ01eOT4+jFn8lCRAoq3",
+    "PublisherCertificateThumbprint":  "",
+    "IncludedFiles":  23
+}
